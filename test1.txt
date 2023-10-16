@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is B4C6-644D
+
+ Directory of C:\Users\Priyanka\Desktop\MyProject
+
+16-10-2023  12:18    <DIR>          .
+16-10-2023  12:12    <DIR>          ..
+16-10-2023  12:18                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  126,120,636,416 bytes free
